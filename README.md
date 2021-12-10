@@ -1,0 +1,2 @@
+# OpenMp
+ taller
