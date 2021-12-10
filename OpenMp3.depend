@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639097643 source:d:\maxur\documents\university\hpcthings\openmp\openmp3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<omp.h>
+
