@@ -39,9 +39,6 @@ int main(int argc, char **argv)
 }
 
 void primerfactors(int num){
-    if(num < 0){
-        return;
-    }
     int count;
     int primero = num;
     printf("the factorization is: ");
